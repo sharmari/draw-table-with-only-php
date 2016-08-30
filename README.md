@@ -10,6 +10,7 @@ Below is a simple task which you need to implement before we finilize things. So
 
 We have provided you the data for final 8 teams that participated in FIFA World Cup 2014. The data is in an array as below:
 
+```
 array(
     array(
         'Country' => 'Brazil',
@@ -60,6 +61,6 @@ array(
         'Color' => 'Red',
     ),
 );
-
+```
 
 Write a program to display the data in tabular format (no html tables please)
